@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d786e9df-2219-4313-8bb6-0d385a99639e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jkwGcQb3HgamySGU9eqhFTq0LE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d786e9df-2219-4313-8bb6-0d385a99639e" name="Default Changelist" comment="" />
+      <created>1604361304641</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604361304641</updated>
+      <workItem from="1604361306457" duration="189000" />
+      <workItem from="1604361998966" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="241" y="91" key="SettingsEditor" timestamp="1604362015399">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="241" y="91" key="SettingsEditor/0.23.1440.822@0.23.1440.822" timestamp="1604362015399" />
+    <state x="340" y="192" key="Vcs.Push.Dialog.v2" timestamp="1604361479408">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="340" y="192" key="Vcs.Push.Dialog.v2/0.23.1440.822@0.23.1440.822" timestamp="1604361479408" />
+    <state x="451" y="348" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1604361469640">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="451" y="348" key="git4idea.remote.GitConfigureRemotesDialog/0.23.1440.822@0.23.1440.822" timestamp="1604361469640" />
+  </component>
+</project>
