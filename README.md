@@ -14,9 +14,9 @@ In the homepage, you can see all of our curated videos. You can just watch the v
 ### Instruction to Build ###
 The database is on MongoDB Atlas and the website is hosted on heroku here. To install and run, do the following:
 
-git clone https://github.com/liuxinto00/Project2 
+git clone
 
-cd Project2
+cd Petube
 
 npm install
 
