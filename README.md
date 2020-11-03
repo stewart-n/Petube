@@ -6,6 +6,10 @@ Welcome to Petube and watch cute animal videos! We are a web streaming applicati
 In the homepage, you can see all of our curated videos. You can just watch the videos on the homepage. If you want to get interactive, you can click the title of the video you’re interested, which will bring you to the video’s own page. Once you registered and logged in, you can add comments and likes to express your opinion about the video!
 
 
+### Screenshot ###
+![](img/screenshot1.png)
+![](img/screenshot2.png)
+
 
 ### Instruction to Build ###
 The database is on MongoDB Atlas and the website is hosted on heroku here. To install and run, do the following:
@@ -44,12 +48,6 @@ https://johnguerra.co/classes/webDevelopment_fall_2020/
 
 ### Licence ###
 This project is under MIT license.
-
-
-
-### Screenshot ###
-![](img/screenshot1.png)
-![](img/screenshot2.png)
 ￼
 
 ### Demo Video ###
