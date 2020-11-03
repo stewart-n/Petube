@@ -14,17 +14,15 @@ git clone https://github.com/liuxinto00/Project2
 
 cd Project2
 
-yarn install
+npm install
 
-yarn start
+npm start
 
 cd front
 
-yarn install
+npm install
 
-yarn build
-
-yarn start
+npm start
 
 
 
