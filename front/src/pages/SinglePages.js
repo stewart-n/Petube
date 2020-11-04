@@ -1,3 +1,4 @@
+// Nicole Stewart: Would be good to have a separate folder for all your components. Other than that good job. 
 import React from "react";
 import axios from "axios";
 import { Container, Row, Col } from "react-bootstrap";
