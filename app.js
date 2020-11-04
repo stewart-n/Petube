@@ -1,3 +1,4 @@
+// Nicole Stewart: Great organization! 
 const express = require("express");
 const path = require("path");
 const cookieParser = require("cookie-parser");
@@ -16,6 +17,7 @@ app.use(cookieParser());
 app.use(express.urlencoded({ extended: false }));
 app.use(express.static(path.join(__dirname, "/front/build")));
 
+//Nicole Stewart: can add comments above, such as "routes"
 app.use("/", indexRouter);
 app.use("/users", usersRouter);
 app.use("/videos", videosRouter);
