@@ -1,3 +1,4 @@
+//Nicole Stewart: I like the organization, should add comments to explain parts of the database and use. Also add a delete to fullfill the CRUD requirement.
 require("dotenv").config();
 const { MongoClient } = require("mongodb");
 
