@@ -9,6 +9,8 @@ const url = process.env.MONGODB_URI || require("./mongoDetails.js");
 
 let db;
 
+//Nicole Stewart: more comments could be useful for someone coming to edit code. Such as comments on what 
+//each route is doing. Other than that, I like the organization. I would also delete the code that was unused.
 router.get("/list", function (request, response) {
   const tableName = "videos";
   const cursor = db.collection(tableName).find({}, { limit: 10 });
