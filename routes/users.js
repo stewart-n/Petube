@@ -35,7 +35,6 @@ router.post("/register", urlencodedParser, function (request, response) {
     }
   });
 });
-
 router.post("/authenticate", urlencodedParser, function (request, response) {
   const data = request.body.data;
   db.collection("users").findOne({ username: data.username }, function (
@@ -53,6 +52,8 @@ router.post("/authenticate", urlencodedParser, function (request, response) {
 });
 
 module.exports = router;
+//Nicole Stewart: I would delete the unused code below. 
+
 // const express = require("express");
 // const router = express.Router();
 
